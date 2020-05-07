@@ -1,5 +1,8 @@
 # Hedef Tespit ve Takip
-Tübitak 2020 İHA yarışması için hazırladığımız İHA' nın hedef tespit ve takip amacıyla hazırladığım servo kontrollü takip sistemi.
+Tübitak 2020 İHA yarışması için İHA' nın hedef tespit ve takip amacıyla hazırladığım servo kontrollü takip sistemi.
+
+Not: Görüntü işleme kodları İrfan Samur arkadaşıma aittir.
+https://github.com/irfansamur/VideoStabilization
 
 # Sistemin Çalışması
 Sistemin çalışmasını şu şekilde özetleyebilirim:
