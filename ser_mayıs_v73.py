@@ -1,4 +1,4 @@
-#Hata 73! .......... Servo dönme zorlanması (Servo son konumda)
+#Hata 73! ........... Servo dönme zorlanması (Servo son konumda)
 
 from time import sleep
 from threading import Thread
