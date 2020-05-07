@@ -13,8 +13,6 @@ Hedef kaybedilirse tekrar tarama ile hedef aranır.
 # Çalışma Videoları
 https://youtu.be/l6eMpreRYwo
 
-----------------------------
-
 https://youtu.be/MoxhSnn2OQM
 
 # Çalışma Amacı
