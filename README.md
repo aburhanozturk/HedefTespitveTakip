@@ -10,6 +10,9 @@ Hedef konum değiştirirse tekrar hedefi kamera merkezine alır.
 Hedef kameranın merkezine alınamayacak durumda ise (servolar belli seviyeye kadar dönebilir) bu durumda Hata73 ekranda dönecektir. Hedef konum değiştirdiğinde ve servo hareket kısıtlaması olmadığında takip devam eder.
 Hedef kaybedilirse tekrar tarama ile hedef aranır.
 
+# Çalışma Videoları
+https://youtu.be/l6eMpreRYwo
+
 # Çalışma Amacı
 Bu çalışmanın amacı otonom uçuşta hedef ve yön belirlenmesinde daha sağlıklı sonuçlar elde etmek amacıyla tasarlanmıştır.
 
