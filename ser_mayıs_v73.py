@@ -1,12 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Apr  5 12:40:41 2020
-
-@author: Lenovo
-
-Hata 73! .......... Servo dönme zorlanması (Servo son konumda)
-
-"""
+#Hata 73! .......... Servo dönme zorlanması (Servo son konumda)
 
 from time import sleep
 from threading import Thread
