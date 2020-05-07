@@ -12,6 +12,7 @@ Hedef kaybedilirse tekrar tarama ile hedef aranır.
 
 # Çalışma Videoları
 https://youtu.be/l6eMpreRYwo
+https://youtu.be/MoxhSnn2OQM
 
 # Çalışma Amacı
 Bu çalışmanın amacı otonom uçuşta hedef ve yön belirlenmesinde daha sağlıklı sonuçlar elde etmek amacıyla tasarlanmıştır.
